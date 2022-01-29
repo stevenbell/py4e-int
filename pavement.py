@@ -16,7 +16,7 @@ sys.path.append(os.getcwd())
 
 home_dir = os.getcwd()
 
-project_name = "py4e-int"
+project_name = "py4e-tufts-es2"
 
 #master_url = None
 #if master_url is None:
@@ -69,7 +69,7 @@ options(
                        'use_services': 'true',
                        'python3': 'true',
                        'dburl': 'postgresql://runestone@localhost/runestone',
-                       'basecourse': 'py4e-int',
+                       'basecourse': 'py4e-tufts-es2',
                         # new 7/2019 changes
                        'dynamic_pages': dynamic_pages,
                        'downloads_enabled': 'false',
