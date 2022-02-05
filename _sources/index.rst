@@ -33,12 +33,12 @@ Table of Contents
    intro/toctree.rst
    variables/toctree.rst
    debugging/toctree.rst
+   lists/toctree.rst
+   iterations/toctree.rst
    conditional/toctree.rst
    functions/toctree.rst
-   iterations/toctree.rst
    strings/toctree.rst
    files/toctree.rst
-   lists/toctree.rst
    dictionaries/toctree.rst
    tuples/toctree.rst
    regex/toctree.rst
