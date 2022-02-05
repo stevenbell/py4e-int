@@ -9,6 +9,7 @@ Network Programming
     simplestwebbrowser.rst
     retrievingimageoverhttp.rst
     retrievingwebpageswithurllib.rst
+    retrievinghtmlwithrequests.rst
     retrievingbinaryfilesoverurllib.rst
     html.rst
     html_mixedupcode.rst
